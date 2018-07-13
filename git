@@ -1,0 +1,1 @@
+repo forall –c “git push origin 待提交分支:refs/for/目标分支”
